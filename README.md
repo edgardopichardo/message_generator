@@ -1,25 +1,28 @@
-#Message Generator
+# Message Generator
 
-##Description
+## Description
 
 Simple Javascript project to generate random inspirational messages.
 
-##Features
+## Features
 
 Get a different inspirational message every time the program runs from a list of available responses.
 
-##How to use
+## How to use
 
 Run the program and get a diffent message every time from a list of available responses.
 
-##Technologies
+## Technologies
 
-Javascript, Node.js
+    * Javascript
+    * Node.js
 
-##Collaborators
+## Collaborators
 
-None
+    * None
 
-##License
+## License
 
-None. Edgardo Pichardo C. 2025(c)
+None. Edgardo Pichardo C. © 2025
+
+> Let's change the world together one lien of code at the time!
