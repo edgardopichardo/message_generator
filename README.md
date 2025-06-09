@@ -14,12 +14,12 @@ Run the program and get a diffent message every time from a list of available re
 
 ## Technologies
 
-    * Javascript
-    * Node.js
+   + Javascript
+   + Node.js
 
 ## Collaborators
 
-    * None
+   + None
 
 ## License
 
