@@ -25,4 +25,4 @@ Run the program and get a diffent message every time from a list of available re
 
 None. Edgardo Pichardo C. © 2025
 
-> Let's change the world together one lien of code at the time!
+> Let's change the world together one line of code at the time!
