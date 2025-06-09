@@ -23,5 +23,12 @@ while (randomNumber.length < 3) {
   }
 }
 
+const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+const today = new Date();
+const month = months[today.getMonth()];
+const day = today.getDate();
+const year = today.getFullYear();
+
 // Output the combined message.
+console.log(`Today\'s motivational message (${month} ${day}, ${year}): `);
 console.log(messageList[randomNumber[0]] + ' ' + messageList[randomNumber[1]] + ' ' + messageList[randomNumber[2]]);
